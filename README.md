@@ -12,7 +12,7 @@ In this guide, we'll show you how to use the MessageBird SMS messaging API to bu
 
 To run the sample application, you need to have PHP installed on your machine. If you're using a Mac, PHP is already installed. For Windows, you can [get it from windows.php.net](https://windows.php.net/download/). Linux users, please check your system's default package manager. You also need Composer, which is available from [getcomposer.org](https://getcomposer.org/download/), to install the [MessageBird SDK for PHP](https://github.com/messagebird/php-rest-api) and other dependencies.
 
-You can [either clone the GitHub repository](https://github.com/) or download and extract a ZIP archive.
+You can [either clone the GitHub repository](https://github.com/messagebirdguides/reminders-guide-php) or download and extract a ZIP archive.
 
 Then, open a console pointed at the directory into which you've placed the sample application and run the following command:
 
