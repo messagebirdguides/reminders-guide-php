@@ -1,6 +1,7 @@
 # SMS Appointment Reminders
+### ⏱ 15 min build time
 
-⏱ 15 min build time
+## Why build SMS appointment reminders? 
 
 Booking appointments online from a website or mobile app is quick and easy. Customers just have to select their desired date and time, enter their personal details and hit a button. The problem, however, is that easy-to-book appointments are often just as easy to forget.
 
@@ -8,11 +9,11 @@ For appointment-based services, no-shows are annoying and costly because of the 
 
 ## Getting Started
 
-In this guide, we'll show you how to use the MessageBird SMS messaging API to build an SMS appointment reminder application in PHP. This sample application represents the order website of a fictitious online beauty salon called _BeautyBird_. To reduce the growing number of no-shows, BeautyBird now collects appointment bookings through a form on their website and schedules timely SMS reminders to be sent out three hours before the selected date and time.
+In this MessageBird Developer Guide, we'll show you how to use the MessageBird SMS messaging API to build an SMS appointment reminder application in PHP. This sample application represents the order website of a fictitious online beauty salon called _BeautyBird_. To reduce the growing number of no-shows, BeautyBird now collects appointment bookings through a form on their website and schedules timely SMS reminders to be sent out three hours before the selected date and time.
 
 To run the sample application, you need to have PHP installed on your machine. If you're using a Mac, PHP is already installed. For Windows, you can [get it from windows.php.net](https://windows.php.net/download/). Linux users, please check your system's default package manager. You also need Composer, which is available from [getcomposer.org](https://getcomposer.org/download/), to install the [MessageBird SDK for PHP](https://github.com/messagebird/php-rest-api) and other dependencies.
 
-You can [either clone the GitHub repository](https://github.com/messagebirdguides/reminders-guide-php) or download and extract a ZIP archive.
+You can either clone the [MessageBird Developer Guides GitHub repository](https://github.com/messagebirdguides/reminders-guide-php) or download and extract a ZIP archive.
 
 Then, open a console pointed at the directory into which you've placed the sample application and run the following command:
 
@@ -184,4 +185,8 @@ Then, point your browser at http://localhost:8080/ to see the form and schedule 
 
 You now have a running SMS appointment reminder application!
 
-You can now use the flow, code snippets and UI examples from this tutorial as an inspiration to build your own reminder system.
+You can now use the flow, code snippets and UI examples from this tutorial as an inspiration to build your own SMS reminder system. Don't forget to download the code from the [MessageBird Developer Guides GitHub repository](https://github.com/messagebirdguides/reminders-guide-php).
+
+## Next steps
+
+Want to build something similar but not quite sure how to get started? Please feel free to let us know at support@messagebird.com, we'd love to help!
